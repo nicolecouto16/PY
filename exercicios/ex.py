@@ -24,3 +24,23 @@ print("Versões:", carros[1])
 print("Anos:", carros[2])
 print("Cores:", carros[3])
 print("IPVA pago:", carros[4])
+
+# ---------------------Exercícios função def ------------------------
+
+# 1. crie uma função para calcular a soma, subtração, multiplicação e divisão para dois números. Retorne as 4 operações na função.
+
+# 2. crie uma função para transformar temperatura em fahrenheit para grau celsius.
+
+# def celsius(f):
+
+#    calc_celsius = (f - 32) * 5/9
+
+#    return calc_celsius 
+
+# celsius(300)
+
+# 3. crie uma função a qual solicite o tipo de figura geométrica (círculo e retângulo). Após isso, crie um programa para calcular a area da respectiva figura geométrica.
+
+# 4. Crie uma função para calcular a media de 4 notas de um aluno utilizando try/except. Ao final retorne a media deste aluno.
+
+# 5. Crie uma função para solicitar a palavra stop ou continue, caso o usuário digite stop, print("Você deve parar."), caso digite continue, print (você pode continuar.) Se o usuário não digitar nenhuma das duas palavras, a pergunta deve continuar de forma infinita. utilize estrutura com while.
