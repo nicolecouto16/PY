@@ -28,6 +28,10 @@ print("IPVA pago:", carros[4])
 # ---------------------Exercícios função def ------------------------
 
 # 1. crie uma função para calcular a soma, subtração, multiplicação e divisão para dois números. Retorne as 4 operações na função.
+num1 = int(input('Digite o primeiro numero: '))
+num2 = int(input('Digite o segundo numero: '))
+
+ 
 
 # 2. crie uma função para transformar temperatura em fahrenheit para grau celsius.
 
